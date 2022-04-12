@@ -1,2 +1,2 @@
-# Emacs-Config
-Just a repository for my doom emacs files
+# Arco Config
+Just a repository for my Arco files
